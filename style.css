@@ -1,6 +1,5 @@
-.main {
-    margin: 0 auto -60px;
-  }
-  .main .img-responsive {
-    margin-bottom: 30px;
-  }
+.image-grid img{
+    width: 500px;
+    margin: 0 auto;
+
+}
