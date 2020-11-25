@@ -1,3 +1,5 @@
+/* Navbar Format */
+
 .container.navbar {
     overflow: visible;
 }
@@ -7,7 +9,7 @@ a.navbar-brand {
     padding: 10px;
     font-weight: bold;
     background-color: #0d7377;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar {
@@ -24,13 +26,22 @@ a.navbar-brand {
     overflow: visible;
 }
 
+/* Website background */
+
 body{
     background-color: #eeeeee;
 }
+
+/*Landing page*/
+
 .container {
     padding-top: 50px;
     padding-bottom: 80px;
     overflow: hidden;
+}
+
+.container.p {
+    padding-left: 10px;
 }
 
 .col-md-12 {
@@ -39,12 +50,57 @@ body{
     padding-bottom: 40px;
 }
 
+#Thumbnail {
+    width: 200px;
+    height: auto;
+    border: thin;
+}
 
-.Lat {
+/*Temperature */
+
+.Temp {
     padding-top: 20px;
 }
 
+#TempImage {
+    background-color: white;
+}
 
+/* Humidity */
+
+.Humid {
+    padding-top: 20px;
+}
+
+#HumidImage {
+    background-color: white;
+}
+
+/* Cloudiness */
+
+.Cloud {
+    padding-top: 20px;
+}
+
+#CloudImage {
+    background-color: white;
+}
+
+/* Windspeed */
+
+.Wind {
+    padding-top: 20px;
+}
+
+#WindImage {
+    background-color: white;
+}
+
+/*comparison*/
+
+.container.image-grid{
+    
+}
 .image-grid img{
     width: 500px;
     margin: 0 auto;
@@ -56,9 +112,13 @@ body{
 
 }
 
+/*Data Table*/
+
 .container table{
     background-color: white;
 }
+
+/*Media tags- need to revist these*/
 
 @media (max-width: 767px) {
     .table-responsive .dropdown-menu {
