@@ -20,6 +20,7 @@ a.navbar-brand {
     height: 60px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 .nav-item.dropdown.show {
     background-color: white;
 }
@@ -57,6 +58,7 @@ body{
     height: auto;
     border: thin;
 }
+
 
 h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -221,7 +223,7 @@ p {
 
 @media(max-width:767px){
     .navbar.bg-light{
-        background-color: #227c80!important;    
+        background-color: #0d7377 !important;    
     }
 
     .navbar-collapse{
