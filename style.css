@@ -219,7 +219,7 @@ p {
     background-color: white;
 }
 
-/*Media tags- need to revist these*/
+/*Media tags */
 
 @media(max-width:767px){
     .navbar.bg-light{
