@@ -1,4 +1,4 @@
-# web_design_challenge
+# Global Weather Analysis Website
 
 ## Assignment Details
 
@@ -14,6 +14,6 @@ This website was created using HTML, CSS, and Bootstrap. Pandas was used to conv
 
 ## Links
 
-The past assignment and data used for creating this project can be found [here](https://github.com/jeosqueri/python_api_challenge).
+The past assignment and data used for creating this project can be found [here](https://github.com/jeosqueri/City-Weather-Analysis).
 
 The final website for this project can be found [here](https://jeosqueri.github.io/Weather-Analysis-Website/).
